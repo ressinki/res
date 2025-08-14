@@ -9,3 +9,5 @@
     <p>Tämä on ensimmäinen GitHub Pages -sivuni.</p>
 </body>
 </html>
+
+<img src="https://via.placeholder.com/300" alt="Esimerkkikuva">
